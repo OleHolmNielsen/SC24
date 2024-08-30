@@ -64,23 +64,23 @@ SC24 program: https://sc24.supercomputing.org/program/
 
 Vendor list 
 -----------
-HPE ()
+HPE (Contact?)
 
-HPE forCast at SC24? (Ben Bennett) https://www.hpe.com/us/en/discover-more-network/events/hpe-hpc.html
+HPE forCast at SC24 (will this event be held?) (Ben Bennett) https://www.hpe.com/us/en/discover-more-network/events/hpe-hpc.html
 
-DellEMC (Thue)
+DellEMC (Ole coordinates with Thue Stahl)
 
-Intel () 
+Intel (Contact?) 
 
-IBM (Alex Enggaard)
+IBM (Who has contact to Alex Enggaard?)
 
-Lenovo (Karl & Anil)
+Lenovo (Ole coordinates with Karl & Anil)
 
-Cornelis Networks (Stijn Derache)
+Cornelis Networks (Ole coordinates with Stijn Derache)
 
-AMD (Rob de Bruin)
+AMD (Rob de Bruin) Coordinate this with Thue from Dell?
 
-NVIDIA (Auke Kuiper & Rasmus)
+NVIDIA (Rasmus coordinates with Auke Kuiper) Coordinate this also with Thue from Dell?
 
 Agenda
 ------
