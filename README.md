@@ -72,7 +72,7 @@ DellEMC (Ole coordinates with Thue Stahl)
 
 Intel (Contact?) 
 
-IBM (Who has contact to Alex Enggaard?)
+IBM (Pietro has contact to Alex Enggaard)
 
 Lenovo (Ole coordinates with Karl & Anil)
 
@@ -87,27 +87,7 @@ SuperMicro (Hans Henrik coordinates with Tom Knudsen)
 Agenda
 ------
 
-Besøg på IBM Factory (New York)
-
-Besøg Georgia Institute of Technology, North Avenue, Atlanta, GA 3033
-
 * SC24 program: (https://sc24.supercomputing.org/program/)
-
-Wednesday 13/11
-------------
-Flyve til La Guardia (LGA) US.
-Ankomst IBM Hovedkvarter, 590 Madison Ave, New York, NY 10022, USA
-
-Thursday 14/11
-------------
-Besøg IBM Hovedkvarter, 590 Madison Ave, New York, NY 10022, USA
-Agenda;
-
-Friday 15/11
-------------
-Besøg IBM Research – Yorktown Heights, 1101 Kitchawan Rd, Yorktown Heights, NY 10598, USA - IBM sørger for transport
-https://research.ibm.com/labs/yorktown-heights#location
-Agenda;
 
 Saturday 16/11
 ------------
@@ -131,7 +111,6 @@ Wednesday 20/11
 
 Thursday 21/11
 --------------
-Besøg georgia Tech
 
 Friday 22/11
 ------------
