@@ -82,7 +82,7 @@ AMD (Rob de Bruin) Coordinate this with Thue from Dell?
 
 NVIDIA (Rasmus coordinates with Auke Kuiper) Coordinate this also with Thue from Dell?
 
-SuperMicro (Hans Henrik coordinates with Tom Knudsen)
+SuperMicro (Hans Henrik coordinates with Tom Grotkaer Knudsen, SuperMicro DK)
 
 Agenda
 ------
