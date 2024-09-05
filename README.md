@@ -12,7 +12,7 @@ DTU:
 * ole.h.nielsen at fysik.dtu.dk (Ole Holm Nielsen - 51801620)
 
 KU:
-* happe at science.ku.dk
+* happe at science.ku.dk (Hans Henrik Happe)
 
 SDU:
 *
@@ -29,9 +29,9 @@ ITU:
 *
 
 DeiC:
-* joachim.sodequist at deic.dk
-* rune.oerum at deic.dk
-* tor.skovsgaard at deic.dk
+* joachim.sodequist at deic.dk (Joachim Sødequist)
+* rune.oerum at deic.dk (Rune Ørum)
+* tor.skovsgaard at deic.dk (Tor Skovsgaard)
 
 Travel
 ------
