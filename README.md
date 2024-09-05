@@ -100,10 +100,14 @@ Sunday 17/11
 Monday 18/11
 ------------
 
+* 19-21 Gala Opening Reception, Exhibit Halls 
 
 Tuesday 19/11
 -------------
 
+* 8:30-10 SC24 Opening session keynote:
+  Nicola (“Nicky”) Fox (NASA)
+  Location: TBD
 
 Wednesday 20/11
 ---------------
