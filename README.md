@@ -1,6 +1,8 @@
 # SC24
 DeiC TekRef at SuperComputing 2024 in Atlanta, Georgia.
 
+Our SC24 [mailing list archive](https://listserv.fysik.dtu.dk/pipermail/sc24-deic/2024/thread.html).
+
 Participants
 ------------
 
@@ -40,8 +42,6 @@ Enter Advanced Passenger Information (APIS) with your airline, for example:
 
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
-
-Our SC24 [mailing list archive](https://listserv.fysik.dtu.dk/pipermail/sc24-deic/2024/thread.html).
 
 Accommodations
 --------------
