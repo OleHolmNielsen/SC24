@@ -45,18 +45,10 @@ Enter Advanced Passenger Information (APIS) with your airline, for example:
 
 Accommodations
 --------------
+
 Hotels in Atlanta: (https://sc24.supercomputing.org/attend/housing/)
 
 Pietro: A house - 517 Foundry Street Northwest, Atlanta, GA 30314, United States of America (lørdag 16.11 - 22.11)
-
-Notice
--------
-Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
-
-Enter Advanced Passenger Information (APIS) with your airline:
-
-
-Our SC23 mailing list archive https://listserv.fysik.dtu.dk/pipermail/sc23-deic/2023/thread.html.
 
 Conference report to DeiC
 -------------------------
