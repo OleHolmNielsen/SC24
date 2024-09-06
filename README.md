@@ -15,7 +15,7 @@ KU:
 * happe at science.ku.dk (Hans Henrik Happe)
 
 SDU:
-*
+* TBD
 
 AAU:
 * rb at its.aau.dk (Rainer Bohm)
@@ -23,10 +23,10 @@ AAU:
 * nsmsa at its.aau.dk (Nina Simone Marstrand Sander Aagaard)
 
 AU:
-*
+* TBD
 
 ITU:
-*
+* TBD
 
 DeiC:
 * joachim.sodequist at deic.dk (Joachim Sødequist)
