@@ -80,7 +80,7 @@ Vendor list
 
 * Lenovo (Ole coordinates with Karl & Anil)
 
-* Cornelis Networks (Ole coordinates with Stijn Derache)
+* Cornelis Networks (Palle Gram coordinates with Stijn Derache)
 
 * AMD (Rob de Bruin) Coordinate this with Thue from Dell?
 
