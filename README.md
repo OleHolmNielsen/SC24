@@ -67,25 +67,27 @@ SC24 program: https://sc24.supercomputing.org/program/
 
 Vendor list 
 -----------
-HPE (Contact?)
 
-HPE forCast at SC24 (will this event be held?) (Ben Bennett) https://www.hpe.com/us/en/discover-more-network/events/hpe-hpc.html
+* DanOffice IT participates in SC24: Palle Gram, Martin Schjørring.
 
-DellEMC (Ole coordinates with Thue Stahl)
+* HPE (Palle Gram contacts Torben Kling Petersen)
 
-Intel (Contact?) 
+* DellEMC (Ole coordinates with Thue Stahl)
 
-IBM (Pietro has contact to Alex Enggaard)
+* Intel (Contact?) 
 
-Lenovo (Ole coordinates with Karl & Anil)
+* IBM (Pietro has contact to Alex Enggaard. Also Palle Gram contacts IBM)
 
-Cornelis Networks (Ole coordinates with Stijn Derache)
+* Lenovo (Ole coordinates with Karl & Anil)
 
-AMD (Rob de Bruin) Coordinate this with Thue from Dell?
+* Cornelis Networks (Ole coordinates with Stijn Derache)
 
-NVIDIA (Rasmus coordinates with Auke Kuiper) Coordinate this also with Thue from Dell?
+* AMD (Rob de Bruin) Coordinate this with Thue from Dell?
 
-SuperMicro (Hans Henrik coordinates with Tom Grotkaer Knudsen, SuperMicro DK)
+* NVIDIA (Rasmus and Palle Gram coordinate with Auke Kuiper) 
+
+* SuperMicro (Hans Henrik coordinates with Tom Grotkaer Knudsen, SuperMicro DK).
+  Palle Gram coordinates with Thomas Jørgensen, SuperMicro USA.
 
 Agenda
 ------
@@ -112,8 +114,12 @@ Tuesday 19/11
   Nicola (“Nicky”) Fox (NASA)
   Location: TBD
 
+* Aften: Lenovo arrangement
+
 Wednesday 20/11
 ---------------
+
+* Aften: Dansker-middag (Palle Gram)
 
 
 Thursday 21/11
