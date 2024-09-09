@@ -8,7 +8,7 @@ Participants
 
 DTU:
 * pbor at dtu.dk (Pietro Bortolozzo - 22215686)
-* peraaa at dtu.dk (Per Aa. Ankerstjerne)
+* peraaa at dtu.dk (Per Aa. Ankerstjerne - 42160911)
 * ole.h.nielsen at fysik.dtu.dk (Ole Holm Nielsen - 51801620)
 
 KU:
@@ -48,7 +48,9 @@ Accommodations
 
 Hotels in Atlanta: (https://sc24.supercomputing.org/attend/housing/)
 
-Pietro: A house - 517 Foundry Street Northwest, Atlanta, GA 30314, United States of America (lørdag 16.11 - 22.11)
+* Pietro: A house - 517 Foundry Street Northwest
+* Per: Hilton Atlanta, 255 Courtland St NE
+* Ole: Courtland Grand Hotel by Wyndham (Formerly Sheraton Atlanta), 165 Courtland Street NE
 
 Conference report to DeiC
 -------------------------
