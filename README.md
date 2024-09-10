@@ -116,6 +116,11 @@ Tuesday 19/11
   Nicola (“Nicky”) Fox (NASA)
   Location: TBD
 
+* 16:00-16:45 Lenovo NDA briefing (Karl Hansen)
+
+  Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW
+  Room: Piedmont Room #1 (12th Floor - Westin Peachtree)
+
 * Aften: Lenovo arrangement
 
 Wednesday 20/11
