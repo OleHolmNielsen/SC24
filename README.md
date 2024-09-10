@@ -13,6 +13,8 @@ DTU:
 
 KU:
 * happe at science.ku.dk (Hans Henrik Happe)
+* apja at di.ku.dk (Aputsiak Niels Janussen)
+* rehr at science.ku.dk (Martin Garrigues Rehr)
 
 SDU:
 * TBD
@@ -118,8 +120,8 @@ Tuesday 19/11
 
 * 16:00-16:45 Lenovo NDA briefing (Karl Hansen):
 
-  * Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW,
-    Piedmont Room #1 (12th Floor - Westin Peachtree)
+  Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW.
+  Piedmont Room #1 (12th Floor - Westin Peachtree)
 
 * Aften: Lenovo arrangement
 
