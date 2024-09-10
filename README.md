@@ -90,8 +90,7 @@ Vendor list
 
 * NVIDIA (Rasmus and Palle Gram coordinate with Auke Kuiper) 
 
-* SuperMicro (Hans Henrik coordinates with Tom Grotkaer Knudsen, SuperMicro DK).
-  Palle Gram coordinates with Thomas Jørgensen, SuperMicro USA.
+* SuperMicro (Palle Gram coordinates with Thomas Jørgensen, SuperMicro USA.)
 
 Agenda
 ------
