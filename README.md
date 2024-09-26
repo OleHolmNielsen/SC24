@@ -121,7 +121,6 @@ Tuesday 19/11
   Location: TBD
 
 * 16:00-16:45 Lenovo NDA briefing (Karl Hansen):
-
   Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW.
   Piedmont Room #1 (12th Floor - Westin Peachtree)
 
@@ -137,7 +136,7 @@ Wednesday 20/11
 
 * Aften: Dansker-middag (Palle Gram)
 
-* 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame. 
+* 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame. Tilmelding er nødvendig.
 
 
 Thursday 21/11
