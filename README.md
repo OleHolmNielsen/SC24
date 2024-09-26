@@ -132,8 +132,8 @@ Tuesday 19/11
 Wednesday 20/11
 ---------------
 
-* 13-15: SC24 DEIC-NVIDIA Meeting part 1
-  Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3
+* 13-15: SC24 DEIC-NVIDIA Meeting (Auke Kuiper).
+  Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3.
 
 * Aften: Dansker-middag (Palle Gram)
 
