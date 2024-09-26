@@ -108,6 +108,9 @@ Sunday 17/11
 Monday 18/11
 ------------
 
+* 10-12 Dell NDA møder x2.
+  Location: Marriott Marquis Atlanta, 265 Peachtree Center Ave NE, Marquis Level (2nd Floor) L404
+
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
 Tuesday 19/11
@@ -122,16 +125,26 @@ Tuesday 19/11
   Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW.
   Piedmont Room #1 (12th Floor - Westin Peachtree)
 
+* 16:45-17:00 Lenovo NDA, Chastain I (6th Floor - Westin Peachtree) - NDA
+
 * Aften: Lenovo arrangement
 
 Wednesday 20/11
 ---------------
 
+* 13-15: SC24 DEIC-NVIDIA Meeting part 1
+  Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3
+
 * Aften: Dansker-middag (Palle Gram)
+
+* 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame. 
 
 
 Thursday 21/11
 --------------
+
+* 12:30-13:30 Slurm BOF session.
+  Location: TBD
 
 Friday 22/11
 ------------
