@@ -108,8 +108,15 @@ Sunday 17/11
 Monday 18/11
 ------------
 
-* 10-12 Dell NDA møder x2.
+* 10:00-12:00 Dell NDA møder x2.
   Location: Marriott Marquis Atlanta, 265 Peachtree Center Ave NE, Marquis Level (2nd Floor) L404
+
+* 13:00-14:00 Intel NDA møde (Nikolay Mester, nikolay.mester@intel.com)
+  Location: 14th Floor, Westin Peach Tree Plaza, 210 Peachtree St NW.
+  Please enter at the main hotel entrance on Ted Turner Drive NW. 
+
+* 15:00-16:00 Møde med AMD (Robotham, Stephen <Stephen.Robotham@amd.com>)
+  Location: Hyatt Regency - Embassy Hall F, Hyatt Regency Atlanta, 265 Peachtree Street NE
 
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
@@ -142,7 +149,7 @@ Wednesday 20/11
 Thursday 21/11
 --------------
 
-* 12:30-13:30 Slurm BOF session.
+* 12:15-13:15 Slurm BOF session.
   Location: TBD
 
 Friday 22/11
