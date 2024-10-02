@@ -145,6 +145,8 @@ Wednesday 20/11
 
 * 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame. Tilmelding er nødvendig.
 
+* 18:30-24:00: Weka Fest, Location: Tabernacle, 152 Luckie Street. SC24 badge needed for entrance. Limited space. No bags.
+
 
 Thursday 21/11
 --------------
