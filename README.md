@@ -141,9 +141,9 @@ Wednesday 20/11
 * 13-15: SC24 DEIC-NVIDIA Meeting (Auke Kuiper).
   Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3.
 
-* Aften: Dansker-middag (Palle Gram)
+* Aften: Dansker-middag (Palle Gram ??) eller de to nedenstående events:
 
-* 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame. Tilmelding er nødvendig.
+* 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame, 250 Marietta St NW. Tilmelding er nødvendig.
 
 * 18:30-24:00: Weka Fest, Location: Tabernacle, 152 Luckie Street. SC24 badge needed for entrance. Limited space. No bags.
 
