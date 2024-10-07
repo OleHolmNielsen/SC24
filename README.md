@@ -118,7 +118,7 @@ Monday 18/11
 * 15:00-16:00 Møde med AMD (Robotham, Stephen <Stephen.Robotham@amd.com>)
   Location: Hyatt Regency - Embassy Hall F, Hyatt Regency Atlanta, 265 Peachtree Street NE
 
-* 19-21 Gala Opening Reception, Exhibit Halls 
+* 19-21 Gala Opening Reception, Exhibit Hall B
 
 Tuesday 19/11
 -------------
@@ -133,10 +133,15 @@ Tuesday 19/11
 
 * 16:45-17:00 Lenovo NDA, Chastain I (6th Floor - Westin Peachtree) - NDA
 
+* 17:15-18:45: TOP500. Location: Exhibit Hall A3
+
 * Aften: Lenovo arrangement
 
 Wednesday 20/11
 ---------------
+
+* 10:30-12:00: Panel: HPC Meets Quantum Computing: When and How Will Applications Benefit? And Which Ones?
+  Location: B313B-B314
 
 * 13-15: SC24 DEIC-NVIDIA Meeting (Auke Kuiper).
   Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3.
@@ -151,8 +156,11 @@ Wednesday 20/11
 Thursday 21/11
 --------------
 
-* 12:15-13:15 Slurm BOF session.
-  Location: TBD
+* 12:15-13:15 Slurm Community BoF session.
+  Location: B203
+
+* 12:15-13:15 Spack Community BoF
+  Location: B310
 
 Friday 22/11
 ------------
