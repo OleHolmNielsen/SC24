@@ -72,7 +72,7 @@ Vendor list
 
 * DellEMC (Ole coordinates with Thue Stahl)
 
-* Intel (Contact?) 
+* Intel (Thue Stahl coordinates)
 
 * IBM (Pietro has contact to Alex Enggaard. Also Palle Gram contacts IBM)
 
@@ -80,9 +80,9 @@ Vendor list
 
 * Cornelis Networks (Palle Gram coordinates with Stijn Derache)
 
-* AMD (Rob de Bruin) Coordinate this with Thue from Dell?
+* AMD (Rob de Bruin) Coordinate this with Thue from Dell.
 
-* NVIDIA (Rasmus and Palle Gram coordinate with Auke Kuiper) 
+* NVIDIA (Palle Gram coordinates with Auke Kuiper) 
 
 * SuperMicro (Palle Gram coordinates with Thomas Jørgensen, SuperMicro USA.)
 
