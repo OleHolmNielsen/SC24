@@ -121,6 +121,8 @@ Tuesday 19/11
   Nicola (“Nicky”) Fox (NASA)
   Location: TBD
 
+* 12:15-13:15 European Environment for Scientific Software Installations (EESSI) Community BoF.  Location: B309
+
 * 16:00-16:45 Lenovo NDA briefing (Karl Hansen):
   Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW.
   Piedmont Room #1 (12th Floor - Westin Peachtree)
@@ -128,6 +130,8 @@ Tuesday 19/11
 * 16:45-17:00 Lenovo NDA, Chastain I (6th Floor - Westin Peachtree) - NDA
 
 * 17:15-18:45: TOP500. Location: Exhibit Hall A3
+
+* 17:15-18:45: LUSTRE Community BOF: Lustre in HPC, AI, and the Cloud. Location: B308.
 
 * Aften: Lenovo arrangement
 
@@ -139,6 +143,10 @@ Wednesday 20/11
 
 * 13-15: SC24 DEIC-NVIDIA Meeting (Auke Kuiper).
   Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3.
+
+* 13:30-14:15: Quantum Computers: The New Supercomputer Partition. Location: Exhibit Hall A3
+
+* 17:15-18:45: DAOS Storage Community BOF. Location: B213
 
 * Aften: Dansker-middag (Palle Gram ??) eller de to nedenstående events:
 
