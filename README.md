@@ -16,19 +16,10 @@ KU:
 * apja at di.ku.dk (Aputsiak Niels Janussen)
 * rehr at science.ku.dk (Martin Garrigues Rehr)
 
-SDU:
-* TBD
-
 AAU:
 * rb at its.aau.dk (Rainer Bohm)
 * rj at its.aau.dk (Rasmus Jensen)
 * nsmsa at its.aau.dk (Nina Simone Marstrand Sander Aagaard)
-
-AU:
-* TBD
-
-ITU:
-* TBD
 
 DeiC:
 * joachim.sodequist at deic.dk (Joachim Sødequist)
