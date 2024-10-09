@@ -38,6 +38,9 @@ Enter Advanced Passenger Information (APIS) with your airline, for example:
 
 Tips for Taking MARTA to and from Hartsfield-Jackson: https://www.itsmarta.com/getting-to-airport.aspx
 including *Traveling to and from the International Terminal*.
+There is a MARTA_on_the_go_ app.
+
+.. _MARTA_on_the_go: https://www.itsmarta.com/marta-on-the-go.aspx
 
 Accommodations
 --------------
