@@ -45,6 +45,9 @@ Enter Advanced Passenger Information (APIS) with your airline, for example:
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
 
+Tips for Taking MARTA to and from Hartsfield-Jackson: https://www.itsmarta.com/getting-to-airport.aspx
+including *Traveling to and from the International Terminal*.
+
 Accommodations
 --------------
 
