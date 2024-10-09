@@ -146,6 +146,9 @@ Wednesday 20/11
 
 * 13:30-14:15: Quantum Computers: The New Supercomputer Partition. Location: Exhibit Hall A3
 
+* 16:00-17:00: Cornelis Networks (Omni-Path fabric), host: John Swinburne.
+  Location: W Atlanta Downtown hotel, Studio 4, 45 Ivan Allan JR Blvd NW.
+
 * 17:15-18:45: DAOS Storage Community BOF. Location: B213
 
 * Aften: Dansker-middag (Palle Gram ??) eller de to nedenstående events:
