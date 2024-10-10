@@ -69,7 +69,7 @@ Vendor list
 
 * DanOffice IT participates in SC24: Palle Gram, Martin Schjørring.
 
-* HPE (Palle Gram contacts Torben Kling Petersen)
+* HPE (Palle Gram coordinates with Torben Kling Petersen/HPE)
 
 * DellEMC (Ole coordinates with Thue Stahl)
 
