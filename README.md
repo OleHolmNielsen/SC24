@@ -31,7 +31,7 @@ Travel
 
 Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
 
-Enter Advanced Passenger Information (APIS) with your airline, for example:
+Enter *Advanced Passenger Information* (APIS) with your airline, for example:
 
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
@@ -124,6 +124,9 @@ Tuesday 19/11
 
 * 12:15-13:15 European Environment for Scientific Software Installations (EESSI) Community BoF.  Location: B309
 
+* 13:00-14:00 HPE NDA meeting (Torben Kling Petersen, torben.klingpetersen@hpe.com).
+  Location: Maple A Meeting Room, Omni Atlanta Hotel at Centennial Park - 190 Marietta St NW, South Tower - Atrium Level 
+
 * 16:00-16:45 Lenovo NDA briefing (Karl Hansen):
   Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW.
   Piedmont Room #1 (12th Floor - Westin Peachtree)
@@ -147,7 +150,7 @@ Wednesday 20/11
 
 * 13:30-14:15: Quantum Computers: The New Supercomputer Partition. Location: Exhibit Hall A3
 
-* 16:00-17:00: Cornelis Networks (Omni-Path fabric), host: John Swinburne.
+* 16:00-17:00: Cornelis Networks Omni-Path fabric (John Swinburne).
   Location: W Atlanta Downtown hotel, Studio 4, 45 Ivan Allan JR Blvd NW.
 
 * 17:15-18:45: DAOS Storage Community BOF. Location: B213
