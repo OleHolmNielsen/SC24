@@ -48,7 +48,7 @@ Hotels in Atlanta: (https://sc24.supercomputing.org/attend/housing/)
 
 * Pietro: A house - 517 Foundry Street Northwest
 * Per: Hilton Atlanta, 255 Courtland St NE
-* Ole: Courtland Grand Hotel by Wyndham (Formerly Sheraton Atlanta), 165 Courtland Street NE
+* Ole, Jakob: Courtland Grand Hotel by Wyndham (Formerly Sheraton Atlanta), 165 Courtland Street NE
 
 Conference report to DeiC
 -------------------------
