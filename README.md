@@ -37,9 +37,11 @@ Enter *Advanced Passenger Information* (APIS) with your airline, for example:
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
 
-Tips for Taking MARTA to and from Hartsfield-Jackson: https://www.itsmarta.com/getting-to-airport.aspx
+Tips for Taking MARTA between Hartsfield-Jackson airpotr and Atlanta: https://www.itsmarta.com/getting-to-airport.aspx
 including *Traveling to and from the International Terminal*.
 There is a *MARTA on the go* app: https://www.itsmarta.com/marta-on-the-go.aspx
+
+City of Atlanta Things to Do: https://www.atlantaga.gov/visitors/things-to-do
 
 Accommodations
 --------------
