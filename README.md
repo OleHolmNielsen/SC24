@@ -116,6 +116,8 @@ Monday 18/11
 * 15:00-16:00 Møde med AMD (Robotham, Stephen <Stephen.Robotham@amd.com>)
   Location: Hyatt Regency - Embassy Hall F, Hyatt Regency Atlanta, 265 Peachtree Street NE
 
+* 17:00-18:00: VAST Data og Advania meeting. Location: Ballroom B, Omni Atlanta Hotel at Centennial Park, 190 Marietta St NW. (Tommy.nielsen@advania.dk)
+
 * 19-21 Gala Opening Reception, Exhibit Hall B
 
 Tuesday 19/11
@@ -139,8 +141,6 @@ Tuesday 19/11
 * 17:15-18:45: TOP500. Location: Exhibit Hall A3
 
 * 17:15-18:45: LUSTRE Community BOF: Lustre in HPC, AI, and the Cloud. Location: B308.
-
-* 17:00-18:00: VAST Data og Advania meeting. Location: Ballroom B, Omni Atlanta Hotel at Centennial Park, 190 Marietta St NW. (Tommy.nielsen@advania.dk)
 
 * Aften: Lenovo arrangement
 
