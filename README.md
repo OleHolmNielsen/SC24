@@ -140,6 +140,8 @@ Tuesday 19/11
 
 * 17:15-18:45: LUSTRE Community BOF: Lustre in HPC, AI, and the Cloud. Location: B308.
 
+* 17:00-18:00: VAST Data og Advania meeting. Location: Ballroom B, Omni Atlanta Hotel at Centennial Park, 190 Marietta St NW. (Tommy.nielsen@advania.dk)
+
 * Aften: Lenovo arrangement
 
 Wednesday 20/11
