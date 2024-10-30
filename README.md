@@ -144,7 +144,8 @@ Tuesday 19/11
 
 * Aften: Lenovo arrangement
 
-* 19:30-22:30: AWS-NVIDIA Reception, Hyatt Regency Atlanta Hotel, 265 Peachtree Street.
+* 19:30-22:30: AWS-NVIDIA Reception, Hyatt Regency Atlanta Hotel, Ballroom Level, Centennial Ballroom,
+  265 Peachtree Street.
   Reservation required, and SC24 badge needed for access.
 
 Wednesday 20/11
