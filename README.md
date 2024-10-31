@@ -144,6 +144,9 @@ Tuesday 19/11
 
 * Aften: Lenovo arrangement
 
+* 19:00-22:00: Lenovo Customer Appreciation Event, The Painted Duck, 976 Brady Ave NW.
+  Reservation required.
+
 * 19:30-22:30: AWS-NVIDIA Reception, Hyatt Regency Atlanta Hotel, Ballroom Level, Centennial Ballroom,
   265 Peachtree Street.
   Reservation required, and SC24 badge needed for access.
