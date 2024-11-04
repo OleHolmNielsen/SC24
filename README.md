@@ -37,7 +37,7 @@ Enter *Advanced Passenger Information* (APIS) with your airline, for example:
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
 
-Tips for Taking MARTA between Hartsfield-Jackson airpotr and Atlanta: https://www.itsmarta.com/getting-to-airport.aspx
+Tips for Taking MARTA between Hartsfield-Jackson airport and Atlanta: https://www.itsmarta.com/getting-to-airport.aspx
 including *Traveling to and from the International Terminal*.
 There is a *MARTA on the go* app: https://www.itsmarta.com/marta-on-the-go.aspx
 
@@ -177,7 +177,7 @@ Wednesday 20/11
 Thursday 21/11
 --------------
 
-* 10:00-11:00 SuperMicro meeting. Location: Atlanta Marriott Marquis - Room M103, 265 Peachtree Center Ave NE.
+* 10:00-11:00 SuperMicro meeting. Location: Atlanta Marriott Marquis - Room M103 (Marquis level), 265 Peachtree Center Ave NE.
 
 * 12:15-13:15 Slurm Community BoF session.
   Location: B203
