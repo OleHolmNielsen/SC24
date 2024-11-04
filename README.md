@@ -177,6 +177,8 @@ Wednesday 20/11
 Thursday 21/11
 --------------
 
+* 10:00-11:00 SuperMicro meeting. Location: Atlanta Marriott Marquis - Room M103, 265 Peachtree Center Ave NE.
+
 * 12:15-13:15 Slurm Community BoF session.
   Location: B203
 
