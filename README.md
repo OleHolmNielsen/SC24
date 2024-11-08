@@ -95,13 +95,18 @@ Agenda
 
 * SC24 program: (https://sc24.supercomputing.org/program/)
 
+Locations refer to the *Georgia World Congress Center* (https://sc24.supercomputing.org/attend/convention-center/),
+unless a specific hotel address is given.
+
 Saturday 16/11
 ------------
 
+TBD
 
 Sunday 17/11
 ------------
 
+TBD
 
 Monday 18/11
 ------------
