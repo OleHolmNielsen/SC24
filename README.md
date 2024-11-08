@@ -148,14 +148,14 @@ Tuesday 19/11
 
 * 17:15-18:45: LUSTRE Community BOF: Lustre in HPC, AI, and the Cloud. Location: B308.
 
-* Aften: Lenovo arrangement
-
 * 19:00-22:00: Lenovo Customer Appreciation Event, The Painted Duck, 976 Brady Ave NW.
   Reservation required.
 
 * 19:30-22:30: AWS-NVIDIA Reception, Hyatt Regency Atlanta Hotel, Ballroom Level, Centennial Ballroom,
   265 Peachtree Street.
   Reservation required, and SC24 badge needed for access.
+
+* 18:00-21:00: IBM SC24 Reception. Location: Skyline Park – The ROOF at Ponce City Park, Ponce City Market, 675 Ponce De Leon Ave NE. Tilmelding er nødvendig.
 
 Wednesday 20/11
 ---------------
@@ -185,8 +185,6 @@ Wednesday 20/11
 * 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame, 250 Marietta St NW. Tilmelding er nødvendig.
 
 * 18:30-24:00: Weka Fest, Location: Tabernacle, 152 Luckie Street. SC24 badge needed for entrance. Limited space. No bags.
-
-* 18:00-21:00: IBM SC24 Reception. Location: Skyline Park – The ROOF at Ponce City Park, Ponce City Market, 675 Ponce De Leon Ave NE. Tilmelding er nødvendig.
 
 Thursday 21/11
 --------------
