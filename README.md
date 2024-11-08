@@ -162,6 +162,7 @@ Wednesday 20/11
 
 * 9:00-9:30: IBM Executive Briefing, Jay Gambetta, IBM Fellow and VP of IBM Quantum.
   Location: IBM Briefing Center, The Westin Downtown, 210 Peachtree St NW.
+  IBM at SC24: https://www.ibm.com/events/sc-conference
 
 * 9:30-10:30: IBM Quantum Briefing, Marilyn Wagner, Head of Quantum Business Development US Government, A&D and Healthcare & Life Sciences, IBM.
 
