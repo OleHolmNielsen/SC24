@@ -108,6 +108,7 @@ Monday 18/11
 
 * 10:00-12:00 Dell NDA møder x2.
   Location: Marriott Marquis Atlanta, 265 Peachtree Center Ave NE, Marquis Level (2nd Floor) L404
+  L404, Atlanta Marriott Marquis​ (2nd Floor)​
 
 * 13:00-14:00 Intel NDA møde (Nikolay Mester, nikolay.mester@intel.com)
   Location: 14th Floor, Westin Peach Tree Plaza, 210 Peachtree St NW.
@@ -154,25 +155,33 @@ Tuesday 19/11
 Wednesday 20/11
 ---------------
 
-* 10:30-12:00: Panel: HPC Meets Quantum Computing: When and How Will Applications Benefit? And Which Ones?
+* 9:00-9:30: IBM Executive Briefing, Jay Gambetta, IBM Fellow and VP of IBM Quantum.
+  Location: IBM Briefing Center, The Westin Downtown, 210 Peachtree St NW.
+
+* 9:30-10:30: IBM Quantum Briefing, Marilyn Wagner, Head of Quantum Business Development US Government, A&D and Healthcare & Life Sciences, IBM.
+
+* 10:45-11:30: IBM Storage for Data & AI, Chris Maestas, CTO - IBM Data and AI Storage Solutions, IBM.
+
+* 11:30-12:00: IBM Storage Scale System, J.D. Zeeman, WW Sales Leader for Storage Scale & Storage Scale System, IBM.
+
+* 10:30-12:00: SC24 Panel: HPC Meets Quantum Computing: When and How Will Applications Benefit? And Which Ones?
   Location: B313B-B314
 
 * 13-15: SC24 DEIC-NVIDIA Meeting (Auke Kuiper).
   Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3.
 
-* 13:30-14:15: Quantum Computers: The New Supercomputer Partition. Location: Exhibit Hall A3
+* 13:30-14:15: SC24 talk: Quantum Computers: The New Supercomputer Partition. Location: Exhibit Hall A3
 
 * 16:00-17:00: Cornelis Networks Omni-Path fabric (John Swinburne).
   Location: W Atlanta Downtown hotel, Studio 4, 45 Ivan Allan JR Blvd NW.
 
 * 17:15-18:45: DAOS Storage Community BOF. Location: B213
 
-* Aften: Dansker-middag (Palle Gram ??) eller de to nedenstående events:
-
 * 18:30-23:00: Dell Customer Appreciation Event at the College Football Hall of Fame, 250 Marietta St NW. Tilmelding er nødvendig.
 
 * 18:30-24:00: Weka Fest, Location: Tabernacle, 152 Luckie Street. SC24 badge needed for entrance. Limited space. No bags.
 
+* 18:00-21:00: IBM SC24 Reception. Location: Skyline Park – The ROOF at Ponce City Park, Ponce City Market, 675 Ponce De Leon Ave NE. Tilmelding er nødvendig.
 
 Thursday 21/11
 --------------
