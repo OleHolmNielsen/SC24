@@ -30,6 +30,12 @@ DeiC:
 Travel
 ------
 
+Arrivals in Atlanta:
+
+* 15/11: Ole
+* 16/11: Hans Henrik, Aputsiak, Jakob
+* 17/11: 
+
 Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
 
 Enter *Advanced Passenger Information* (APIS) with your airline, for example:
