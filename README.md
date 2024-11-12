@@ -191,7 +191,7 @@ Wednesday 20/11
 * 10:30-12:00: SC24 Panel: HPC Meets Quantum Computing: When and How Will Applications Benefit? And Which Ones?
   Location: B313B-B314
 
-* 13-15: SC24 DEIC-NVIDIA Meeting (Auke Kuiper).
+* 13:00-15:00: SC24 DEIC-NVIDIA Meeting (Auke Kuiper).
   Location: Hyatt Regency Atlanta, 265 Peachtree Rd NE, meeting room Spring LL3.
 
 * 13:30-14:15: SC24 talk: Quantum Computers: The New Supercomputer Partition. Location: Exhibit Hall A3
@@ -208,13 +208,22 @@ Wednesday 20/11
 Thursday 21/11
 --------------
 
-* 10:00-11:00 SuperMicro meeting. Location: Atlanta Marriott Marquis - Room M103 (Marquis level), 265 Peachtree Center Ave NE.
+* 10:00-11:00: SuperMicro meeting. Location: Atlanta Marriott Marquis - Room M103 (Marquis level), 265 Peachtree Center Ave NE.
 
-* 12:15-13:15 Slurm Community BoF session.
+* 12:15-13:15: Slurm Community BoF session.
   Location: B203
 
-* 12:15-13:15 Spack Community BoF
+* 12:15-13:15: Spack Community BoF
   Location: B310
+
+* 13:30-15:00: Panel: Sustainability, Carbon-Neutrality and HPC.
+  Location: B313B-B314
 
 Friday 22/11
 ------------
+
+* 8:30-10:00: Panel: Hilbert's Problems for HPC.
+  Location: B310
+
+* 10:30-12:00: Panel: Computing Is Eating the World – Will Saving the Planet Destroy It?
+  Location: B310
