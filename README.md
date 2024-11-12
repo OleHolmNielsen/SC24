@@ -32,6 +32,7 @@ Travel
 
 Arrivals in Atlanta:
 
+* 14/11: Per
 * 15/11: Ole
 * 16/11: Hans Henrik, Aputsiak, Jakob
 * 17/11: 
