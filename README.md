@@ -15,7 +15,7 @@ KU:
 * happe at science.ku.dk (Hans Henrik Happe)
 * apja at di.ku.dk (Aputsiak Niels Janussen)
 * rehr at science.ku.dk (Martin Garrigues Rehr)
-* jabh at adm.ku.dk (Jakob Bruun Hansen)
+* jabh at adm.ku.dk (Jakob Bruun Hansen - 24434974)
 
 AAU:
 * rb at its.aau.dk (Rainer Bohm - 40585540)
