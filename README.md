@@ -44,21 +44,18 @@ Enter *Advanced Passenger Information* (APIS) with your airline, for example:
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
 
-Tips for Taking MARTA between Hartsfield-Jackson airport and Atlanta: https://www.itsmarta.com/getting-to-airport.aspx
-including *Traveling to and from the International Terminal*.
-See also the maps at https://www.itsmarta.com/train-stations-and-schedules.aspx.
+Tips for Taking MARTA between Hartsfield-Jackson airport and Atlanta:
 
-There is a *MARTA on the go* app: https://www.itsmarta.com/marta-on-the-go.aspx
-
-There is a free shuttle at the **arrivals level of the International Terminal** that goes to the Domestic Terminal’s baggage claim.
-The Airport Station is inside the Domestic Terminal between the North and South baggage claims.
-You may also ride the airport’s “Plane Train” to the Domestic Terminal Baggage Claim stop. 
-
-Buy Breeze Cards & Tickets: https://www.itsmarta.com/where-to-buy.aspx
-
-Take the Red and Gold lines.
-They travel directly to and from the Airport Station. 
-In Atlanta you may want to get off at the **Peachtree Station**.
+* https://www.itsmarta.com/getting-to-airport.aspx including *Traveling to and from the International Terminal*.
+* Maps at https://www.itsmarta.com/train-stations-and-schedules.aspx.
+* *MARTA on the go* app: https://www.itsmarta.com/marta-on-the-go.aspx
+* There is a free shuttle at the **arrivals level of the International Terminal** that goes to the Domestic Terminal’s baggage claim.
+  The Airport Station is inside the Domestic Terminal between the North and South baggage claims.
+  You may also ride the airport’s “Plane Train” to the Domestic Terminal Baggage Claim stop. 
+* Buy Breeze Cards & Tickets: https://www.itsmarta.com/where-to-buy.aspx
+* Take the Red and Gold lines.
+  They travel directly to and from the Airport Station. 
+  In Atlanta you may want to get off at the **Peachtree Station**.
 
 City of Atlanta Things to Do: https://www.atlantaga.gov/visitors/things-to-do
 
