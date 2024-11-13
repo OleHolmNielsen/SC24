@@ -1,5 +1,5 @@
 # SC24
-The DeiC TekRef delegation participating in the SuperComputing 2024 (SC24) conference in Atlanta, Georgia.
+The DeiC [HPC TekRef](//www.deic.dk/en/Supercomputing/About-HPC/HPC-TechRef) delegation participating in the SuperComputing 2024 (SC24) conference in Atlanta, Georgia.
 
 Coordination is done via our SC24 mailing list which has an [archive](https://listserv.fysik.dtu.dk/pipermail/sc24-deic/2024/thread.html).
 
