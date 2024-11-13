@@ -18,9 +18,9 @@ KU:
 * jabh at adm.ku.dk (Jakob Bruun Hansen)
 
 AAU:
-* rb at its.aau.dk (Rainer Bohm)
-* rj at its.aau.dk (Rasmus Jensen)
-* nsmsa at its.aau.dk (Nina Simone Marstrand Sander Aagaard)
+* rb at its.aau.dk (Rainer Bohm - 40585540)
+* rj at its.aau.dk (Rasmus Jensen - 25665810)
+* nsmsa at its.aau.dk (Nina Simone Marstrand Sander Aagaard - 22534111)
 
 DeiC:
 * joachim.sodequist at deic.dk (Joachim Sødequist)
@@ -33,7 +33,7 @@ Travel
 Arrivals in Atlanta:
 
 * 14/11: Per
-* 15/11: Ole
+* 15/11: Ole, Rasmus, Nina, Rainer
 * 16/11: Hans Henrik, Aputsiak, Jakob
 * 17/11: 
 
@@ -70,6 +70,7 @@ Hotels in Atlanta: (https://sc24.supercomputing.org/attend/housing/)
 * Pietro: A house - 517 Foundry Street Northwest
 * Per: Hilton Atlanta, 255 Courtland St NE
 * Ole, Jakob: Courtland Grand Hotel by Wyndham (Formerly Sheraton Atlanta), 165 Courtland Street NE
+* Rasmus, Nina, Rainer: 1 Baltimore Pl NW
 
 Conference report to DeiC
 -------------------------
