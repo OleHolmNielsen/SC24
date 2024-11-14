@@ -59,6 +59,8 @@ Tips for Taking MARTA between Hartsfield-Jackson airport and Atlanta:
 
 City of Atlanta Things to Do: https://www.atlantaga.gov/visitors/things-to-do
 
+Recommendation: Download an **offline map** of Atlanta on your phone so that you minimize your data traffic.
+
 Accommodations
 --------------
 
@@ -83,6 +85,9 @@ SC24 website: https://sc24.supercomputing.org/
 
 SC24 program: https://sc24.supercomputing.org/program/
 
+SC24 Mobile App: https://sc24.supercomputing.org/attend/schedule/mobile-app/
+On Android phones you're required to download an *SC24 Conference* app from the Amazon app store, and an Amazon account seems to be required :-(
+Not recommended!
 
 Vendor list 
 -----------
