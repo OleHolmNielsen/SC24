@@ -12,7 +12,7 @@ DTU:
 * ole.h.nielsen at fysik.dtu.dk (Ole Holm Nielsen - 51801620)
 
 KU:
-* happe at science.ku.dk (Hans Henrik Happe)
+* happe at science.ku.dk (Hans Henrik Happe - 29 93 63 0x2b)
 * apja at di.ku.dk (Aputsiak Niels Janussen)
 * rehr at science.ku.dk (Martin Garrigues Rehr)
 * jabh at adm.ku.dk (Jakob Bruun Hansen - 24434974)
@@ -68,7 +68,7 @@ Hotels in Atlanta: (https://sc24.supercomputing.org/attend/housing/)
 
 * Pietro: A house - 517 Foundry Street Northwest
 * Per: Hilton Atlanta, 255 Courtland St NE
-* Ole, Jakob: Courtland Grand Hotel by Wyndham (Formerly Sheraton Atlanta), 165 Courtland Street NE
+* Ole, Jakob, Hans Henrik: Courtland Grand Hotel by Wyndham (Formerly Sheraton Atlanta), 165 Courtland Street NE
 * Rasmus, Nina, Rainer: 1 Baltimore Pl NW
 
 Conference report to DeiC
