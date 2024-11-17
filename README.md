@@ -160,11 +160,11 @@ Tuesday 19/11
 * 13:00-14:00 HPE NDA meeting (Torben Kling Petersen, torben.klingpetersen@hpe.com).
   Location: Maple A Meeting Room, Omni Atlanta Hotel at Centennial Park - 190 Marietta St NW, South Tower - Atrium Level 
 
-* 16:00-16:45 Lenovo NDA briefing (Karl Hansen):
+* 16:30-17:00 Lenovo NDA, Chastain I (6th Floor - Westin Peachtree) - NDA
+
+* 17:00-17:45 Lenovo NDA briefing (Karl Hansen):
   Location:  The Westin Peachtree Plaza, Atlanta 210 Peachtree St. NW.
   Piedmont Room #1 (12th Floor - Westin Peachtree)
-
-* 16:45-17:00 Lenovo NDA, Chastain I (6th Floor - Westin Peachtree) - NDA
 
 * 17:15-18:45: TOP500. Location: Exhibit Hall A3
 
