@@ -182,15 +182,13 @@ Tuesday 19/11
 Wednesday 20/11
 ---------------
 
-* 9:00-9:30: IBM Executive Briefing, Jay Gambetta, IBM Fellow and VP of IBM Quantum.
-  Location: IBM Briefing Center, The Westin Downtown, 210 Peachtree St NW.
+* 10:00-12:45: IBM meetings.
+  Location: Westin Peachtree Plaza Hotel [14th floor, Peachtree room] 210 Peachtree St NW.
   IBM at SC24: https://www.ibm.com/events/sc-conference
-
-* 9:30-10:30: IBM Quantum Briefing, Marilyn Wagner, Head of Quantum Business Development US Government, A&D and Healthcare & Life Sciences, IBM.
-
-* 10:45-11:30: IBM Storage for Data & AI, Chris Maestas, CTO - IBM Data and AI Storage Solutions, IBM.
-
-* 11:30-12:00: IBM Storage Scale System, J.D. Zeeman, WW Sales Leader for Storage Scale & Storage Scale System, IBM.
+* 10:00 – 10:15 IBM Keynote - The Future of HPC & AI
+* 10:15 – 10:30 Overview of IBM Vela and Blue Vela AI Supercomputers
+* 10:30 – 12:00 Optimizing NVIDIA DGX and NVIDIA DGX SuperPOD environments for training and inferencing with IBM Storage Scale System
+* 12:00 – 12:45 Quantum-Centric Supercomputing: A New Perspective on Computing
 
 * 10:30-12:00: SC24 Panel: HPC Meets Quantum Computing: When and How Will Applications Benefit? And Which Ones?
   Location: B313B-B314
