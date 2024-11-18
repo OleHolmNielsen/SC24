@@ -134,8 +134,7 @@ Monday 18/11
 ------------
 
 * 10:00-12:00 Dell NDA møder x2.
-  Location: Marriott Marquis Atlanta, 265 Peachtree Center Ave NE, Marquis Level (2nd Floor) L404
-  L404, Atlanta Marriott Marquis​ (2nd Floor)​
+  Location: Marriott Marquis Atlanta, 265 Peachtree Center Ave NE, Marquis Level (2nd Floor) M105.
 
 * 13:00-14:00 Intel NDA møde (Nikolay Mester, nikolay.mester@intel.com)
   Location: 14th Floor, Westin Peach Tree Plaza, 210 Peachtree St NW.
