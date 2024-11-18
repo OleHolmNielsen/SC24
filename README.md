@@ -220,6 +220,8 @@ Thursday 21/11
 * 13:30-15:00: Panel: Sustainability, Carbon-Neutrality and HPC.
   Location: B313B-B314
 
+* 19:00-22:00: Technical Program Reception, Georgia Aquarium
+
 Friday 22/11
 ------------
 
